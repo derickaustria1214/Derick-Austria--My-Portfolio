@@ -1,0 +1,38 @@
+body{
+  background-color: 640000;
+}
+
+h2{
+  background-color: orangered;
+}
+
+a1{
+  background-color: orangered;
+}
+
+.profile img
+{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid orange;
+
+
+}
+
+p{
+  background-color: red;
+}
+li{
+  background-color: red;
+}
+h{
+  background-color: red;
+}
+
+a{
+  color: pink;
+}
+
+

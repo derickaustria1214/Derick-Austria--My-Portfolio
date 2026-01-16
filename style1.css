@@ -1,0 +1,48 @@
+
+body{
+            font-family: Arial, sans-serif;
+            background-color: lightgreen;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            width: 80%;
+            margin: auto;
+            padding: 20px;
+        }
+
+        h1 {
+            text-align: center;
+            color: violet;
+        }
+
+        .skill {
+            margin: 15px 0;
+        }
+
+        .skill-name {
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+
+        .skill-bar {
+            background-color: white;
+            border-radius: 20px;
+            overflow: hidden;
+        }
+
+        .skill-level {
+            height: 20px;
+            background-color: pink;
+            text-align: right;
+            padding-right: 10px;
+            color: red;
+            line-height: 20px;
+        }
+        a1{
+            background-color: pink;
+        }
+        
+        
+    

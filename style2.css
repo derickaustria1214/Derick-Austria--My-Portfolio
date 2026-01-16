@@ -1,0 +1,45 @@
+body {
+            font-family: Arial, sans-serif;
+            background-color:lightgreen;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            width: 80%;
+            margin: auto;
+            padding: 20px;
+        }
+
+        h1 {
+            text-align: center;
+            color: #2c3e50;
+        }
+
+        .lesson {
+            background-color: #ffffff;
+            padding: 15px;
+            margin: 15px 0;
+            border-left: 6px solid #3498db;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+
+        .lesson h2 {
+            margin: 0;
+            color: violet;
+        }
+
+        .lesson p {
+            margin: 8px 0;
+            color: greenyellow;
+        }
+
+        .lesson span {
+            font-weight: bold;
+            color: pink;
+        }
+        
+        a1{
+            background-color: pink;
+        }
+    
